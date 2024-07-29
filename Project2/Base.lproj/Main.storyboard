@@ -29,7 +29,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="us"/>
                                 <connections>
-                                    <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xp4-JX-xui"/>
+                                    <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HTj-kD-cdf"/>
                                 </connections>
                             </button>
                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VCB-07-k4D">
@@ -55,8 +55,8 @@
                     <navigationItem key="navigationItem" id="SfA-Cb-tVs"/>
                     <connections>
                         <outlet property="button1" destination="EdL-Gy-bKT" id="Yvn-Oo-TYN"/>
-                        <outlet property="button2" destination="exz-4G-Bcn" id="DEd-DF-BBq"/>
-                        <outlet property="button3" destination="VCB-07-k4D" id="5Nq-LK-nMj"/>
+                        <outlet property="button2" destination="exz-4G-Bcn" id="1If-Cc-o09"/>
+                        <outlet property="button3" destination="VCB-07-k4D" id="R44-ad-BzH"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
